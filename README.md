@@ -99,10 +99,6 @@ Implementación de alta disponibilidad con Hyper-V y PrestaShop.
 - Apache, Vagrant, Terraform
 - Amazon Cloud
 
-<div align="center">
-  <img height="500" src="https://iili.io/HrbGfsf.png"  />
-</div>
-
 ---
 
-¡Gracias por visitar mi perfil de GitHub! añadelo aqui para poder subirlo en mi perfil de github
+¡Gracias por visitar mi perfil de GitHub!
